@@ -1,5 +1,5 @@
 <?php
-    /**Challeng:
+    /** Challenge:
       * Create a program that takes an input and prints it out as long as
       * input is not the number 42.
       */

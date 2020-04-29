@@ -8,7 +8,7 @@
         $end_set = $input;
         $is_prime = false;
 
-        for ($to_check = $input; $toCheck <= $end_set; $to_check++) {
+        for ($to_check = $input; $to_check <= $end_set; $to_check++) {
             if (isPrime($to_check)) {
                 $is_prime = true;
                 echo($to_check . "\n");
